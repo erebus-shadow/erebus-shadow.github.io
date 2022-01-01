@@ -75,9 +75,9 @@ skills:
 languages:
   - language: "Python"
     fluency: "full-professional-proficiency"
-  - language: "C"
-    fluency: "elementary proficiency"
   - language: "Assembly"
+    fluency: "elementary proficiency"
+  - language: "C"
     fluency: "limited-working-proficiency"
    # fluency: "professional working proficiency"
 #interests:
