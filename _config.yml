@@ -4,7 +4,7 @@
 # IMPORTANT: Set the URL of your site.
 # Set to https://<username>.github.io when hosting on GitHub Pages
 # (unless you are using a custom domain).
-url:                   HypertextAssassin0273.github.io
+url:                   erebus-shadow.github.io
 
 # IMPORTANT: Set The "base URL" of your site.
 # When your site sits in a subdirectory, set to /<name of directory>
@@ -19,7 +19,7 @@ baseurl:               ''
 lang:                  en
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 Shahzaib Khan
+title:                 Mohammad Badhruddouza Khan
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
@@ -40,8 +40,8 @@ logo:                  /assets/icons/icon.png
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
-  name:                <Shahzaib> <Ahmed>
-  email:               <shazaibahmed0000@gmail.com>
+  name:                <Badhruddouza> <khan>
+  email:               <badhruddouza@gmail.com>
   # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
@@ -54,7 +54,7 @@ legal:
 #    href:              /cookies-policy/
 
 # This text will appear in a `<small>` tag in the footer of every page.
-copyright:             © 2020. Shazaib Khan - All rights reserved.
+copyright:             © 2020. Mohammad Badhhruddouza Khan - All rights reserved.
 
 # Format of the permalinks
 permalink:              /:categories/:year-:month-:day-:title/
