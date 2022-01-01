@@ -1,7 +1,7 @@
 basics:
   name: "Mohammad Badhruddouza Khan"
   label: "Undergraduate Student"
-  picture: "/assets/icons/icon1.png"
+  #picture: "/assets/icons/icon1.png"
   email: "badhruddouza@gmail.com"
   phone: "+880-1859-540433"
   website: "https://buffyhridoy.github.io"
