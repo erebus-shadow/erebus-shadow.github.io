@@ -1,36 +1,33 @@
 basics:
-  name: "Shahzaib Khan"
-  label: "Undergraduate BS(CS) Student"
+  name: "Mohammad Badhruddouza Khan"
+  label: "Undergraduate Student"
   picture: "/assets/icons/icon1.png"
-  email: "shazaibahmed0000@gmail.com"
-  phone: "+92-335-6678673"
-  website: "https://hypertextassassin0273.github.io"
+  email: "badhruddouza@gmail.com"
+  phone: "+880-1859-540433"
+  website: "https://buffyhridoy.github.io"
  
   summary: >
-    I'm an aspiring student who seeks to learn something new every day. Currently, undergraduate at NUCES FAST-Karachi in BS(CS). <br><br>
-    My interests include Cyber-Security, Artificial Intelligence, Internet of Things, Defense, & Web Development. 
-    However, the list of all my passions extends much further.<br><br>
-    My dream job is to obtain a position where I can grow well to help others around me. 
+    I'm 3rd Biomedical Engineering Student at Khulna University of Engineering & Technology. <br><br>
+    I have been working on Machine Learning for 3 years and Data Analysis for 1 years. <br><br>
     If you're interested in something within my skill-set, or would like to discuss something tech. related then, feel free to reach out.<br><br> 
     I'd love to talk.<br><br>
     
     <i title="Download" class="icon-box-add faded"><strong>  :  </strong></i><a href="/assets/Resume.pdf" class="external"><strong>Resume</strong></a>
     <br>
-    <i title="Download" class="icon-box-add faded"><strong>  :  </strong></i><a href="/assets/Personal_Statement.pdf" class="external"><strong>Personal Statement</strong></a>
-
+    
   location:
     address: ""
-    postalCode: "74700"
+    postalCode: "9001"
    # region: "North Nazimabad"
-    city: "Karachi"
-    countryCode: "PK"
+    city: "Khulna"
+    countryCode: "BD"
   profiles:
     - network: "Github"
-      username: "HypertextAssassin0273"
-      url: "https://github.com/HypertextAssassin0273"
+      username: "buffyhridoy"
+      url: "https://github.com/buffyhridoy"
     - network: "LinkedIn"
-      username: "shazaibahmed0273"
-      url: "https://www.linkedin.com/in/shazaibahmed0273"
+      username: "mohammad-badhruddouza-khan-97b023195"
+      url: "https://www.linkedin.com/in/mohammad-badhruddouza-khan-97b023195"
 # work:
  # - company: "Circadence"
    # position: "Systems Architecture Engineer"
@@ -44,19 +41,13 @@ basics:
      # - "Utilized Software Defined Radio to spawn a custom 4GLTE Base station. Created an operation GUI for users to forward traffic, track logs and maintain Command and Control channels"
 education:
   - institution: >
-      <a href="https://khi.nu.edu.pk">National University of Computer & Emerging Sciences, Karachi</a>
+      <a href="https://kuet.ac.bd">Khulna University of Engineering & Technology, Khulna</a>
  
-    area: "Computer Science"
+    area: "Biomedical Engineering"
     studyType: "Bachelor"
-    startDate: "2019-07-01"
+    startDate: "2018-01-18"
    # endDate: "2023-05-01"
-  - institution: >
-      <a href="https://www.facebook.com/GovtDegreeCollegeGulshanEIqbalBlock7">Govt. Degree Science & Commerce College, Gulshan-e-Iqbal</a>
   
-    area: "Pre-Engineering"
-    studyType: "FSc"
-    startDate: "2017-06-01"
-    endDate: "2019-4-01"
 # awards:
  # - title: "Startup School"
    # date: "2018-09-01"
@@ -69,44 +60,40 @@ education:
    # website: "https://blog.particle.io/2019/05/06/learn-how-to-build-in-plants-a-mesh-connected-soil-monitoring-system/"
    # summary: "Utilize the Internet of Things to watch over your house plants."
 skills:
-  - name: "Web Development"
-    level: "Amateur"
+  - name: "Deep Learning"
+    level: "Professional"
     keywords:
-      - "HTML"
-      - "CSS"
-      - "Javascript"
-  - name: "MutliCloud Networking"
-    level: "Amateur"
-    keywords:
-      - "Cloud Security Solutions"
-      - "Cloud Networking Solutions"
+      - "Tensorflow"
+      - "Keras"
+      - "Pytorch"
+  #- name: "MutliCloud Networking"
+    #level: "Amateur"
+    #keywords:
+      #- "Cloud Security Solutions"
+      #- "Cloud Networking Solutions"
 languages:
+  - language: "Python"
+    fluency: "full-professional-proficiency"
   - language: "C"
-    fluency: "full-professional-proficiency"
-  - language: "C++"
-    fluency: "full-professional-proficiency"
-  - language: "C#"
-    fluency: "elementary proficiency"  
-  - language: "Javascript"
     fluency: "elementary proficiency"
   - language: "Assembly"
     fluency: "limited-working-proficiency"
    # fluency: "professional working proficiency"
-interests:
-  - name: "Cyber-Security"
-    keywords:
-      - "Physical Security"
-      - "Close Access Technology"
-  - name: "Cloud Computing"
-    keywords:
-      - "Mutli-Cloud Networking"
-      - "Cloud Security"
-      - "Cloud Hybrid Solutions"
-  - name: "Internet of Things"
-    keywords:
-      - "Wireless Embeded Technology"
-      - "4G-LTE"
-      - "5G"
+#interests:
+#  - name: "Cyber-Security"
+#    keywords:
+#      - "Physical Security"
+#      - "Close Access Technology"
+#  - name: "Cloud Computing"
+#    keywords:
+#      - "Mutli-Cloud Networking"
+#      - "Cloud Security"
+#      - "Cloud Hybrid Solutions"
+#  - name: "Internet of Things"
+#    keywords:
+#      - "Wireless Embeded Technology"
+#      - "4G-LTE"
+#      - "5G"
 # references:
 #   - name: "Erlich Bachman"
 #     reference: >
