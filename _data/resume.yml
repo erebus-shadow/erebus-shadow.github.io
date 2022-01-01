@@ -66,11 +66,12 @@ skills:
       - "Tensorflow"
       - "Keras"
       - "Pytorch"
-  #- name: "MutliCloud Networking"
-    #level: "Amateur"
-    #keywords:
-      #- "Cloud Security Solutions"
-      #- "Cloud Networking Solutions"
+  - name: "Data Analysis"
+    level: "Professional"
+    keywords:
+      - "Tableau"
+      - "SQL"
+      - "Excel"
 languages:
   - language: "Python"
     fluency: "full-professional-proficiency"
